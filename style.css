@@ -168,6 +168,7 @@ section {
 }
 
 .change-text h3 .word .letter{
+    
     transform-origin: center center 25px;
 }
 
